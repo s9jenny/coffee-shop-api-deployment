@@ -105,34 +105,34 @@ Below are the required screenshots showing deployment, CI/CD logs, AWS resource 
 
 
 ### Screenshot 1
-(./Screenshot 2025-05-19-044040.png)
+![Screenshot 1](./Screenshot%202025-05-19-044040.png)
 
 ### Screenshot 2
-(./Screenshot 2025-05-19-044718.png)
+![Screenshot 2](./Screenshot%202025-05-19-044718.png)
 
 ### Screenshot 3
-(./Screenshot 2025-05-19-045254.png)
+![Screenshot 3](./Screenshot%202025-05-19-045254.png)
 
 ### Screenshot 4
-(./Screenshot 2025-05-19-045418.png)
+![Screenshot 4](./Screenshot%202025-05-19-045418.png)
 
 ### Screenshot 5
-(./Screenshot 2025-05-19-045803.png)
+![Screenshot 5](./Screenshot%202025-05-19-045803.png)
 
 ### Screenshot 6
-(./Screenshot 2025-05-19-050236.png)
+![Screenshot 6](./Screenshot%202025-05-19-050236.png)
 
 ### Screenshot 7
-(./Screenshot 2025-05-19-050448.png)
+![Screenshot 7](./Screenshot%202025-05-19-050448.png)
 
 ### Screenshot 8
-(./Screenshot 2025-05-19-051110.png)
+![Screenshot 8](./Screenshot%202025-05-19-051110.png)
 
 ### Screenshot 9
-(./Screenshot 2025-05-19-051145.png)
+![Screenshot 9](./Screenshot%202025-05-19-051145.png)
 
 ### Screenshot 10
-(./Screenshot 2025-05-19-051340.png)
+![Screenshot 10](./Screenshot%202025-05-19-051340.png)
 
 
 
