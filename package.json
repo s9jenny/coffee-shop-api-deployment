@@ -1,0 +1,28 @@
+{
+  "name": "coffee-shop-api",
+  "version": "1.0.0",
+  "description": "Coffee Shop CRUD API using Serverless Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s9jenny/coffee-shop-api.git"
+  },
+  "keywords": [],
+  "author": "Jennifer Tiossock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s9jenny/coffee-shop-api/issues"
+  },
+  "homepage": "https://github.com/s9jenny/coffee-shop-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "serverless": "^4.14.3"
+  }
+}
