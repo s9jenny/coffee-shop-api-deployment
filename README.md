@@ -105,34 +105,34 @@ Below are the required screenshots showing deployment, CI/CD logs, AWS resource 
 
 
 ### Screenshot 1
-![Screenshot 1](./Screenshot 2025-05-19 044040.png)
+![Screenshot 1](./Screenshot 2025-05-19%20044040.png)
 
 ### Screenshot 2
-![Screenshot 2](./Screenshot 2025-05-19 044718.png)
+![Screenshot 2](./Screenshot 2025-05-19%20044718.png)
 
 ### Screenshot 3
-![Screenshot 3](./Screenshot 2025-05-19 045254.png)
+![Screenshot 3](./Screenshot 2025-05-19%20045254.png)
 
 ### Screenshot 4
-![Screenshot 4](./Screenshot 2025-05-19 045418.png)
+![Screenshot 4](./Screenshot 2025-05-19%20045418.png)
 
 ### Screenshot 5
-![Screenshot 5](./Screenshot 2025-05-19 045803.png)
+![Screenshot 5](./Screenshot 2025-05-19%20045803.png)
 
 ### Screenshot 6
-![Screenshot 6](./Screenshot 2025-05-19 050236.png)
+![Screenshot 6](./Screenshot 2025-05-19%20050236.png)
 
 ### Screenshot 7
-![Screenshot 7](./Screenshot 2025-05-19 050448.png)
+![Screenshot 7](./Screenshot 2025-05-19 %20050448.png)
 
 ### Screenshot 8
-![Screenshot 8](./Screenshot 2025-05-19 051110.png)
+![Screenshot 8](./Screenshot 2025-05-19 %20051110.png)
 
 ### Screenshot 9
-![Screenshot 9](./Screenshot 2025-05-19 051145.png)
+![Screenshot 9](./Screenshot 2025-05-19 %20051145.png)
 
 ### Screenshot 10
-![Screenshot 10](./Screenshot 2025-05-19 051340.png)
+![Screenshot 10](./Screenshot 2025-05-19%20051340.png)
 
 
 
@@ -140,7 +140,7 @@ Below are the required screenshots showing deployment, CI/CD logs, AWS resource 
 
 Here is a recorded walkthrough of the project, explaining the code structure, CI/CD setup, Serverless deployment, and AWS services used:
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/c7313fa242dd4e5bb2af0889b4d54185-with-play.gif)](https://www.loom.com/share/c7313fa242dd4e5bb2af0889b4d54185?sid=3253226c-4a7c-444f-905c-b282a57bdab0)
+[Watch the video](https://www.loom.com/share/c7313fa242dd4e5bb2af0889b4d54185?sid=3253226c-4a7c-444f-905c-b282a57bdab0)
 
 
 ---
