@@ -123,13 +123,13 @@ Below are the required screenshots showing deployment, CI/CD logs, AWS resource 
 ![Screenshot 6](./Screenshot 2025-05-19%20050236.png)
 
 ### Screenshot 7
-![Screenshot 7](./Screenshot 2025-05-19 %20050448.png)
+![Screenshot 7](./Screenshot 2025-05-19%20050448.png)
 
 ### Screenshot 8
-![Screenshot 8](./Screenshot 2025-05-19 %20051110.png)
+![Screenshot 8](./Screenshot 2025-05-19%20051110.png)
 
 ### Screenshot 9
-![Screenshot 9](./Screenshot 2025-05-19 %20051145.png)
+![Screenshot 9](./Screenshot 2025-05-19%20051145.png)
 
 ### Screenshot 10
 ![Screenshot 10](./Screenshot 2025-05-19%20051340.png)
